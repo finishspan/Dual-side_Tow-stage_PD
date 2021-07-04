@@ -1,6 +1,6 @@
 # Dual-side_Two-stage_PD: Dual-sideTwo-stage Convolution Sparse Transfer Learning Algorithm for PD Speech Recognition
 ### Xiaoheng Zhang, Yongming Li, Pin Wang, Oumei Cheng, Yu Han
-### Chongqing Radio & TV University , School of Microelectronics and Communication Engineering
+
   proposed a dual-side two-stage convolution sparse transfer learning model is proposed for PD speech recognition that aims to solve the problems by a dual-side algorithm approach.For the dataset side, two-stage sparse convolution transfer learning is designed.In regard to instances, a deep instance clustering algorithm is designed.
 
 ###################data_code_description######################################################
