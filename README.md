@@ -2,7 +2,6 @@
 
 1、data/
 Ainput.mat :  Source domain feature data files
-
 self_GK_data.mat:  Intermediate dataset 1 feature data file
 paralysis_traindata.mat:  Intermediate dataset 2 feature data file
 polyp_traindata.mat:  Intermediate dataset 3 feature data file
