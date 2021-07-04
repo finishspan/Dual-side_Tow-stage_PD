@@ -1,4 +1,4 @@
-# Dual-side_Tow-stage_PD
+# Dual-side_Two-stage_PD
 
 1、data/
 Ainput.mat :  Source domain feature data files
